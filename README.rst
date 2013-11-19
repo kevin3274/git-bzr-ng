@@ -86,10 +86,10 @@ Requirements
 ------------
 
 * git (some recentish version)
-* bzr 2.2 or bzr 2.3.0
-* bzr-fastimport 0.10 http://launchpad.net/bzr-fastimport/trunk/0.10.0/+download/bzr-fastimport-0.10.0.tar.gz
+* bzr 2.2 or bzr 2.3.0 or above
+* bzr-fastimport $sudo apt-get install bzr-fastimport
 * python-fastimport, for bzr-fastimport (bzr branch lp:python-fastimport)
-* You also need to put the git-bzr script somewhere in your path
+* You also need to put the git-bzr script somewhere in your path #put git-bzr into /usr/bin 
 
 
 Troubleshooting
